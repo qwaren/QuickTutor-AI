@@ -21,8 +21,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # ============================================================
 # ⚙️ ВСТАВТЕ СВОЇ КЛЮЧІ
 # ============================================================
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_TOKEN_HERE"
-GEMINI_API_KEY  = "YOUR_GEMINI_API_KEY_HERE"
+TELEGRAM_TOKEN = "8645429921:AAHKioU5teff0JLJD9dY0dE4V47otQ0qyPY"
+GEMINI_API_KEY  = "AIzaSyCm9tg0aepUV-mgw6nYJ1oMk8yF760Wenk"
 
 DB_PATH      = "homework_bot.db"
 GEMINI_MODEL = "gemini-2.0-flash"
