@@ -33,7 +33,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # ⚙️ НАЛАШТУВАННЯ — ВСТАВТЕ СВОЇ КЛЮЧІ
 # ============================================================
 TELEGRAM_TOKEN = "8645429921:AAHKioU5teff0JLJD9dY0dE4V47otQ0qyPY"
-GEMINI_API_KEY  = "AIzaSyCF5An6jB-7xkr5jL_Aur1y0u5Ir4knkK0"
+GEMINI_API_KEY  = "AIzaSyCm9tg0aepUV-mgw6nYJ1oMk8yF760Wenk"
 
 # Базовий денний ліміт запитів
 BASE_DAILY_LIMIT = 15
